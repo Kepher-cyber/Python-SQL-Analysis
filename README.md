@@ -1,3 +1,3 @@
 # Python-SQL-Analysis
 A Python and SQL Project
-![Project Diagram](diagram.png)
+![Project Diagram](Diagram.drawio.png)
